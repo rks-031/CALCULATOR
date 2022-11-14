@@ -1,0 +1,27 @@
+html,
+body {
+        height: 100%;
+        width: 100%;
+}
+
+.button {
+        padding: 22px;
+        margin: 0 4px;
+        border: 2px solid black;
+        border-radius: 10px;
+        font-weight: bold;
+        font-size: medium;
+        cursor: pointer;
+        width: 66px;
+}
+
+/* .extra-padding {
+        margin: 0 70px;
+} */
+
+.row input {
+        margin: 0;
+        padding: 10px 26px;
+        border: 2px solid black;
+        border-radius: 7px;
+}
